@@ -16,7 +16,7 @@
     * dnspython
     * pyplot
     * pymysql
-    * Crypto
+    * pycrypto
     * base64
 
 > Made by Dong (2022.07.05)
